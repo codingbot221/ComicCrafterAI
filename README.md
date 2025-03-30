@@ -57,8 +57,4 @@ streamlit run app/main.py
 - `models/`: Model storage (not included in repo)
 - `docs/`: Documentation
 
-## License
-MIT License - see LICENSE file
 
-## Contributing
-Contributions welcome! Please read CONTRIBUTING.md first. 
